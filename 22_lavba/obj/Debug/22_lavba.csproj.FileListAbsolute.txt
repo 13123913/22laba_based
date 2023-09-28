@@ -1,0 +1,22 @@
+C:\Users\user.COMP-02.000\source\repos\22_lavba\22_lavba\bin\Debug\22_lavba.exe.config
+C:\Users\user.COMP-02.000\source\repos\22_lavba\22_lavba\bin\Debug\22_lavba.exe
+C:\Users\user.COMP-02.000\source\repos\22_lavba\22_lavba\bin\Debug\22_lavba.pdb
+C:\Users\user.COMP-02.000\source\repos\22_lavba\22_lavba\obj\Debug\22_lavba.csproj.AssemblyReference.cache
+C:\Users\user.COMP-02.000\source\repos\22_lavba\22_lavba\obj\Debug\22_lavba.csproj.SuggestedBindingRedirects.cache
+C:\Users\user.COMP-02.000\source\repos\22_lavba\22_lavba\obj\Debug\_22_lavba.Form1.resources
+C:\Users\user.COMP-02.000\source\repos\22_lavba\22_lavba\obj\Debug\_22_lavba.Properties.Resources.resources
+C:\Users\user.COMP-02.000\source\repos\22_lavba\22_lavba\obj\Debug\22_lavba.csproj.GenerateResource.cache
+C:\Users\user.COMP-02.000\source\repos\22_lavba\22_lavba\obj\Debug\22_lavba.csproj.CoreCompileInputs.cache
+C:\Users\user.COMP-02.000\source\repos\22_lavba\22_lavba\obj\Debug\22_lavba.exe
+C:\Users\user.COMP-02.000\source\repos\22_lavba\22_lavba\obj\Debug\22_lavba.pdb
+C:\Users\user.COMP-02.000\Desktop\laba-raba 22\22_lavba\bin\Debug\22_lavba.exe.config
+C:\Users\user.COMP-02.000\Desktop\laba-raba 22\22_lavba\bin\Debug\22_lavba.exe
+C:\Users\user.COMP-02.000\Desktop\laba-raba 22\22_lavba\bin\Debug\22_lavba.pdb
+C:\Users\user.COMP-02.000\Desktop\laba-raba 22\22_lavba\obj\Debug\22_lavba.csproj.AssemblyReference.cache
+C:\Users\user.COMP-02.000\Desktop\laba-raba 22\22_lavba\obj\Debug\22_lavba.csproj.SuggestedBindingRedirects.cache
+C:\Users\user.COMP-02.000\Desktop\laba-raba 22\22_lavba\obj\Debug\_22_lavba.Form1.resources
+C:\Users\user.COMP-02.000\Desktop\laba-raba 22\22_lavba\obj\Debug\_22_lavba.Properties.Resources.resources
+C:\Users\user.COMP-02.000\Desktop\laba-raba 22\22_lavba\obj\Debug\22_lavba.csproj.GenerateResource.cache
+C:\Users\user.COMP-02.000\Desktop\laba-raba 22\22_lavba\obj\Debug\22_lavba.csproj.CoreCompileInputs.cache
+C:\Users\user.COMP-02.000\Desktop\laba-raba 22\22_lavba\obj\Debug\22_lavba.exe
+C:\Users\user.COMP-02.000\Desktop\laba-raba 22\22_lavba\obj\Debug\22_lavba.pdb
